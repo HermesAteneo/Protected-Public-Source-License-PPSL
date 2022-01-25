@@ -4,7 +4,7 @@ License for any type of computer coding where the source is public but rights pr
 
 # Specifications
 
-- Source is open and public
+- Source is open and public to check business reliability
 - Source can be used for learning and research
 - Source cannot be replicated for commercial activities unrelated to the original code bussiness
 - Source can be replicated for commercial activities that participate in the benefits of the original code bussiness
