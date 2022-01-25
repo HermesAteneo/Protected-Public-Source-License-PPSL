@@ -2,6 +2,8 @@
 
 License for any type of computer coding where the source is public but rights protected
 
+Due to the precariousness of the currently existing licenses for code and software, which do not give a valid alternative to blockchain + web3 based businesses where the publication of the code becomes necessary so that any user can validate the reliability of the project, we created a new type of license for public code with copyright.
+
 # Specifications
 
 - Source is open and public to check business reliability
