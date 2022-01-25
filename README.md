@@ -17,4 +17,5 @@ Protected Public Source License - PPSL v.10
 
 # Author
 
-Proposal by Hermes Ateneo (https://hermesateneo.medium.com) 
+Proposal by Hermes Ateneo <br>
+https://hermesateneo.medium.com/tipo-de-licencia-de-software-para-c%C3%B3digo-p%C3%BAblico-protegido-bebf84b736a7
